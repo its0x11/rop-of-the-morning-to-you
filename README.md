@@ -1,2 +1,6 @@
-# rop-of-the-morning-to-you
-A place for us to collaborate on our write-ups and store exploits for future use.
+# ROP of the morning to you
+
+## Contents
+
+* [A list of our exploits](./exploits)
+* [CTF Write-ups](./write-ups)
